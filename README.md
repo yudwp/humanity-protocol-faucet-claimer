@@ -20,7 +20,7 @@ A script to automate token claiming from the **Humanity Protocol Testnet Faucet*
 
 ```bash
 git clone https://github.com/yudwp/humanity-protocol-faucet-claimer.git
-cd humanity-faucet-auto-claimer
+cd humanity-protocol-faucet-claimer
 ```
 
 2. **Install dependencies:**
