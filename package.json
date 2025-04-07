@@ -1,0 +1,16 @@
+{
+  "name": "humanity-protocol-faucet-claimer",
+  "version": "1.0.0",
+  "description": "Skrip Node.js untuk mengotomatisasi klaim token dari Humanity Protocol Faucet.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.2",
+    "ethers": "^5.4.7"
+  },
+  "author": "yudwp",
+  "license": "MIT"
+}
